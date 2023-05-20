@@ -7,17 +7,43 @@
     background-color: #FAC7D6;
     color: #FD1111;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding: 8px 0;
+    padding: 7px 0;
 }
 
 .cabecalho-imagem{
- width: 25%;
+ width: 28%;
 }
 
 .cabecalho-lista-item{
-    display: inline-block;
-    margin: 20% 20px;
+    display: inline;
+    margin: 13% 15px;
     font-size: 20px;
+}
+
+.Origem-imagem{
+    width: 20%;
+}
+
+.Origem{
+    background-color: #ffe8ef;
+}
+
+.Torta-de-cereja{
+    background-color: #F496B2;
+}
+
+.torta-imagem{
+    width: 20%;
+}
+
+.Modo-de-preparo{
+    background-color:  #ffe8ef;
+}
+
+.rodape{
+    background-color: #FAC7D6;
+    padding: 20px;
+    text-align: center;
 }
