@@ -26,6 +26,14 @@
     width: 30%;
 }
 
+
+.Origem-titulo{
+    font-family: 'Cherry Swash';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 38px;
+}
 .origem-texto-um{
     font-family: 'Abel';
 font-style: normal;
@@ -60,6 +68,14 @@ line-height: 38px;
     padding: 24px 0;
 }
 
+.ingredientes{
+    font-family: 'Cherry Swash';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 38px;
+}
+
 .torta-imagem{
     width: 30%;
     margin: 4%
@@ -72,10 +88,24 @@ line-height: 38px;
 }
 
 .tortinha{
+    font-family: 'Cherry Bomb One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 38px;
    background-color: #F496B2; 
    text-align: center;
    padding: 20px;
 }
+
+.modo-preparo{
+    font-family: 'Cherry Swash';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 38px;
+}
+
 
 .Modo-de-preparo{
     background-color:  #ffe8ef;
